@@ -6,7 +6,6 @@
 # Project Description:
 >## This is a  recreation of a website for an organisation known as Delani Studios whose goal is to get customers who are interested in making their own websites at a cost.
 
-> <img src="https://delaniimaya.netlify.com/">
 
 # Author(s) information:
 ># Raphael Kariuki
